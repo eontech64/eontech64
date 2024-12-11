@@ -11,7 +11,7 @@ My name is Daniel, I'm living in Spain and I'm a Sr. Linux Administrator.
 
 ## Contact
 
-* [eontech(at)gmail.com](mailto://eontech@gmail.com)
+* eontech@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/daniel-rodriguez-92a9836/)
 
 
